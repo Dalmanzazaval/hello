@@ -9,9 +9,12 @@
 
 int main(int argc, char **argv) {
 
-  printf("Diego Almanza\n");
+  printf("Diego Almanza/n");
 //added the majors of authors
-  printf("Computer Engineering Majors"/n);
+  printf("Computer Engineering Major"/n);
 
+  printf("Henry Buscher/n");
+
+  printf("Computer Engineering Major"/n);
   return 0;
 }
