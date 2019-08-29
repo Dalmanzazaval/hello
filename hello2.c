@@ -1,0 +1,16 @@
+/**
+*Authors Diego Almanza Isaac Baysinger & Henry Buscher
+*Date 2019/29/08
+*
+*Prints names of Authors
+*
+*/
+#include<stdlib.h>
+#include<stdio.h>
+
+int main(int argc, char **argv) {
+
+  printf("Diego Almanza Isaac Baysinger & Henry Buscher\n");
+
+  return 0;
+}
