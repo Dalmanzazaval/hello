@@ -13,8 +13,8 @@ int main(int argc, char **argv) {
 //added the majors of authors
   printf("Computer Engineering Major"/n);
 
-  printf("Henry Buscher/n");
+  printf("John McGarvey/n");
+  printf("Computer Science Major"/n);
 
-  printf("Computer Engineering Major"/n);
   return 0;
 }
